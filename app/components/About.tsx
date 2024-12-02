@@ -4,13 +4,13 @@ import Link from 'next/link'
 
 const About = () => {
   return (
-    <section id="about-us" className="max-container padding-container flex flex-col gap-20 py-10 pb-32 md:gap-28 lg:py-20 xl:flex-row bg-gray-10">
+    <section id="about-us" className=" flex flex-col gap-20 py-10 pb-32 md:gap-28 lg:py-20 xl:flex-row bg-gray-10">
         <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
         <div className='text-center mt-2'>
-        <h3 className="text-3xl sm:text-5xl leading-normal font-extrabold tracking-tight text-gray-900">
+        <h3 className="text-3xl sm:text-5xl font-montserrat leading-normal font-extrabold tracking-tight text-gray-900">
         About <span className="text-indigo-600">EcoFlow Dynamics</span>
             </h3>
-            <h6 className="bold-14 lg:bold-18 text-blue-600 mt-6">At EcoFlow Dynamics, we are committed to shaping the future of energy. We develop cutting-edge 
+            <h6 className="bold-14 lg:bold-18 font-montserrat text-blue-600 mt-6">At EcoFlow Dynamics, we are committed to shaping the future of energy. We develop cutting-edge 
                 software solutions designed to optimize petroleum extraction processes and boost energy efficiency.</h6>
         </div>
           

@@ -4,8 +4,8 @@ export const NAV_LINKS = [
     { href: '#about-us', key: 'about-uss', label: 'About Us' },
     { href: '#how-it-works', key: 'how-it-works', label: 'How It Works' },
     { href: '#key-features', key: 'Key-features', label: 'Key Features' },
-    { href: '#how-to-start', key: 'how-to-start', label: 'How to Get Started' },
-    { href: '#contant-us', key: 'contact-us', label: 'Contact Us' },
+    { href: '#Get-started', key: 'Get-started', label: 'Get Started' },
+    { href: '#contact-us', key: 'contact-us', label: 'Contact Us' },
   ];
 
 // FOOTER SECTION

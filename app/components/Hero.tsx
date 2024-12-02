@@ -54,10 +54,10 @@ const Hero = () => {
     
           <div className='flex justify-between items-center max-lg:flex-col gap-10 w-full'>
           <div className='flex-1 flex justify-center items-center'>
-        <Image src='/bluenergy.jpeg' alt='blue energy' width={570} height={522} className='object-contain rounded-xl'/>
+        <Image src='/greentech2.jpg' alt='blue energy' width={570} height={522} className='object-contain rounded-xl'/>
       </div>
       <div className='flex-1 flex justify-center items-center'>
-        <Image src='/energysaver.jpeg' alt='energy saver' width={570} height={522} className='object-contain rounded-xl'/>
+        <Image src='/greentech3.jpg' alt='energy saver' width={570} height={522} className='object-contain rounded-xl'/>
       </div>
           </div>
         </section>

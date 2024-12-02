@@ -3,13 +3,14 @@ import React from 'react'
 
 const ContactUs = () => {
   return (
-    <section id='contact-us' className='max-container bg-gray-10 mt-6 p-4'>
+    <section id='contact-us' className='max-container padding-container flex flex-col gap-20 py-10 pb-32 md:gap-28 lg:py-20 xl:flex-row bg-gray-10'>
+     
         <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
         <h3 className="bold-32 sm:bold-32 leading-normal tracking-tight items-center text-gray-800">
             Our Contact Information
             </h3>
             <div className='flex flex-1 flex-row gap-10 py-3'>
-            <h6 className="bold-14 lg:bold-18 mt-6"><span className='text-blue-600'>Admin Office :</span>  +254708567809</h6>
+            <h6 className="bold-14 lg:bold-18 mt-6"><span className='text-blue-600'>Admin Office :</span>  +254708981856</h6>
             <h6 className="bold-14 lg:bold-18 mt-6"><span className='text-blue-600'>Email Us :</span> ecoflowdynamics@gmail.com</h6>
             </div>
             <div className="relative flex py-5 items-center">
@@ -20,7 +21,7 @@ const ContactUs = () => {
         </div>
       <div className='flex justify-between items-center max-lg:flex-col gap-2 mb-10'>
       <h3 className='leading-[68px] lg:max-w-md font-palanquin bold-20'>Sign Up for
-      <span className='text-green-400'> Updates </span> & Newsletter
+      <span className='text-blue-600'> Updates </span> & Newsletter
       </h3>
       <div className='rounded-full'>
       <form className="w-full max-w-sm flex flex-col md:flex-row">
