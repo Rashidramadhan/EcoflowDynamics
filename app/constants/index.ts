@@ -31,7 +31,7 @@ export const FOOTER_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '+254-708-567-809' },
-      { label: 'Email Officer', value: 'ecoflow@admin.com' },
+      { label: 'Email Officer', value: 'info@ecoflowdynamics.com' },
     ],
   };
   
