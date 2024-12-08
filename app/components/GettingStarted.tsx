@@ -2,7 +2,8 @@ import React from 'react'
 
 const GettingStarted = () => {
   return (
-    <section id="Get-started" className="max-container padding-container flex flex-col gap-20 py-10 pb-32 md:gap-28 lg:py-20 xl:flex-row">
+    <section id="Get-started" className="flex-col flexCenter overflow-hidden bg-feature-bg
+    bg-center bg-no-repeat py-20 shadow-inner">
 <div className="text-center">
 <h3 className="text-3xl sm:text-5xl leading-normal font-extrabold tracking-tight text-gray-900">
     How to <span className="text-indigo-600">Get Started</span>
@@ -10,7 +11,7 @@ const GettingStarted = () => {
 
 </div>
 
-<div className="">
+<div className="mt-20">
 <ul className="">
     <li className=" bg-gray-100 p-5 pb-10 text-center mb-20">
         <div className="flex flex-col items-center">

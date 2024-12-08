@@ -11,7 +11,7 @@ const ContactUs = () => {
             </h3>
             <div className='flex flex-1 flex-row gap-10 py-3'>
             <h6 className="bold-14 lg:bold-18 mt-6"><span className='text-blue-600'>Admin Office :</span>  +254708981856</h6>
-            <h6 className="bold-14 lg:bold-18 mt-6"><span className='text-blue-600'>Email Us :</span> ecoflowdynamics@gmail.com</h6>
+            <h6 className="bold-14 lg:bold-18 mt-6"><span className='text-blue-600'>Email Us :</span> info@ecoflowdynamics.com</h6>
             </div>
             <div className="relative flex py-5 items-center">
     <div className="flex-grow border-t border-gray-400"></div>
